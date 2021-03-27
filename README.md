@@ -1,5 +1,6 @@
 # week4homework
 Week 4 Homework
+The user wanted me to create a Time Taking Coding Quiz to test your knowledge on the subject and at the end of the quiz being able to see your score and put your intials next to it and store it.
 
 Created this page using :
 ・html
