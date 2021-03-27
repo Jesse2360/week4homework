@@ -1,7 +1,7 @@
 # week4homework
 Week 4 Homework
 
-Created this page using:
+Created this page using :
 ・html
 ・css
 ・javascript
@@ -9,3 +9,5 @@ Created this page using:
 Built with
 ・VS Code
 ・GitHub
+
+!
